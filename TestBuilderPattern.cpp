@@ -114,12 +114,12 @@ void main()
 {
 	CProduct* cp_product;
 	CDirector c_director;
-	CGoodProductBuilder* cp_goodbuilder=new CGoodProductBuilder();
+	CBuilder * cp_goodbuilder=new CGoodProductBuilder();
 	c_director.SetBuilder(cp_goodbuilder);
 	cp_product=c_director.GetProduct();
 	cp_product->Specification();
 
-	CBadProductBuilder* cp_badbuilder=new CBadProductBuilder();
+	CBuilder* cp_badbuilder=new CBadProductBuilder();
 	c_director.SetBuilder(cp_badbuilder);
 	cp_product=c_director.GetProduct();
 	cp_product->Specification();
