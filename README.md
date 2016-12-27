@@ -1,2 +1,2 @@
-# DesignPattern
-Implement design patterns with C++
+# Design Patterns
+Design patterns in C++.
