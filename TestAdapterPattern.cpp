@@ -1,5 +1,5 @@
 /*
- * Example of 'SingleTon' design pattern.
+ * Example of 'Adapter' design pattern.
  * Copyright (C) 2016 Leo Wang 
  *
  * This program is free software: you can redistribute it and/or modify
