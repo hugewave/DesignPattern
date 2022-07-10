@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+/.vs/DesignPattern/v16/.suo
+/.vs/DesignPattern/v16/Browse.VC.db
+/.vs/DesignPattern/v16/Browse.VC.db-wal
+/.vs/DesignPattern/v16/Browse.VC.db-shm
+/.vs/DesignPattern/v16/Browse.VC.opendb
+/.vs/cmake.db
+/.vs/ProjectSettings.json
